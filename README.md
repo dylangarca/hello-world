@@ -1,2 +1,2 @@
 # hello-world
-This repository is for Rust assignment 
+Hey my name is Dylan and I enjoy playing volleyball
